@@ -105,7 +105,7 @@
         "peekViewTitle.background": "#232530",
         "panelTitle.activeBorder": "#E95378",
         "statusBar.foreground": "#D5D8DA80",
-        "statusBar.debuggingBackground": "#FAB38E",
+        "statusBar.debuggingBackground": "#240510",
         "statusBar.debuggingForeground": "#06060C",
         "statusBar.noFolderBackground": "#1C1E26",
         "statusBarItem.hoverBackground": "#2E303E",

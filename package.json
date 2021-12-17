@@ -2,7 +2,7 @@
     "name": "monokai-plusplus-dark",
     "displayName": "Monokai++ Dark",
     "description": "A merge between Monokai++ syntax colors and Dark Horizon background colors",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "drg",
     "icon": "images/logo.png",
     "galleryBanner": {
