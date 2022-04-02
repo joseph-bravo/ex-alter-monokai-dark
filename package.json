@@ -1,42 +1,24 @@
 {
-    "name": "monokai-plusplus-dark",
-    "displayName": "Monokai++ Dark",
-    "description": "A merge between Monokai++ syntax colors and Dark Horizon background colors",
-    "version": "1.0.1",
-    "publisher": "drg",
-    "icon": "images/logo.png",
-    "galleryBanner": {
-        "color": "#f1f1f1",
-        "theme": "dark"
-    },
+    "name": "ex-alter-monokai-dark",
+    "displayName": "EX-Alter Monokai++ D.A.R.K.",
+    "description": "Monokai++ Dark, but I adjusted some stuff",
+    "version": "0.0.1",
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.66.0"
     },
     "categories": [
         "Themes"
     ],
-    "keywords": [
-        "monokai"
-    ],
     "contributes": {
         "themes": [
             {
-                "label": "Monokai++Dark",
+                "label": "EX-Alter Monokai++ D.A.R.K.",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monokai++-dark-color-theme.json"
+                "path": "./themes/EX-Alter Monokai++ D.A.R.K.-color-theme.json"
             }
         ]
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DrgOv/monokai-plusplus"
-    },
-    "bugs": {
-        "url": "https://github.com/DrgOv/monokai-plusplus/issues"
-    },
-    "__metadata": {
-        "id": "b5448620-d0c9-4d8d-af6c-ec0d2318155c",
-        "publisherDisplayName": "drg",
-        "publisherId": "2f9a59dd-41df-4ff8-a6d0-74ab0a6f1743"
+    "author": {
+        "name": "jojobii"
     }
 }
