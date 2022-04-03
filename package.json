@@ -20,5 +20,9 @@
     },
     "author": {
         "name": "jojobii"
+    },
+    "publisher": "jojobii",
+    "repository": {
+        "url": "https://github.com/joseph-bravo/ex-alter-monokai-dark"
     }
 }
