@@ -1,5 +1,5 @@
 {
-	"name": "EX-Alter Monokai++ D.A.R.K.",
+	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#080808",
@@ -19,6 +19,7 @@
 		"editor.findMatchBackground": "#000000",
 		"editor.findMatchHighlightBackground": "#1b1b1b",
 		"editor.findRangeHighlightBackground": "#6c6f931a",
+		"editor.foldBackground": "#2020201c",
 		"editor.foreground": "#cccccc",
 		"editor.hoverHighlightBackground": "#6c6f934d",
 		"editor.inactiveSelectionBackground": "#402725",
@@ -140,7 +141,7 @@
 		"titleBar.activeBackground": "#0e0e0e",
 		"titleBar.inactiveBackground": "#1c1e26",
 		"walkThrough.embeddedEditorBackground": "#232530",
-		"widget.shadow": "#16161c",
+		"widget.shadow": "#16161c"
 		//"activityBar.activeBorder": "#d5d8dab3",
 		//"activityBar.dropBorder": "#d5d8dab3",
 		//"activityBar.inactiveForeground": "#d5d8da48",
@@ -205,7 +206,6 @@
 		//"dropdown.border": "#232530",
 		//"dropdown.foreground": "#f0f0f0",
 		//"editor.focusedStackFrameHighlightBackground": "#7abd7a4d",
-		//"editor.foldBackground": "#59201b4d",
 		//"editor.inlineValuesBackground": "#ffc80033",
 		//"editor.inlineValuesForeground": "#ffffff80",
 		//"editor.lineHighlightBorder": "#282828",
